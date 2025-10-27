@@ -3,7 +3,7 @@
   title: "How I Chose The Tech Stack For Job Helper",
   description: "Choosing a tech stack isn’t just about picking trendy tools, it’s about aligning architecture with real-world needs.",
   published: '2025-10-27',
-  tags: ["react", "typescript", "python"],
+  tags: ["python", "opinion", "ai"],
   license: 'cc-by-4'
 }
 ---
